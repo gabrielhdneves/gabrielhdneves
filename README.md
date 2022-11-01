@@ -22,4 +22,4 @@ I do work as a Frontend developer, mainly using TypeScript and React.
 
 ---
 
-![Npx demo](https://github.com/gabrielhdneves/gabrielhdneves/blob/main/gabrielhdneves.gif)
+![Npx demo](https://github.com/gabrielhdneves/gabrielhdneves/blob/main/gabrielhdneve.gif)
