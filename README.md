@@ -4,7 +4,7 @@ I do work as a Frontend developer, mainly using TypeScript and React.
 
 <ul>
    <li>
-     Frontend Engineer currently unemployed-, looking for new challenges.
+     Frontend Engineer currently unemployed, looking for new challenges.
   </li>
 
   <li>
