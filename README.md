@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**gabrielhdneves/gabrielhdneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do work as a Frontend developer, mainly using TypeScript and React.
 
-Here are some ideas to get you started:
+<ul>
+   <li>
+     Frontend Engineer currently unemployed-, looking for new challenges.
+  </li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <li>
+    Find me on 
+     <a href="https://twitter.com/gabrielhdneves" target="_blank" title="Twitter">Twitter</a>
+     <img src="https://github.com/gabrielhdneves/gabrielhdneves/blob/master/twitter.svg" width="16" alt="Twitter Logo" />
+  </li>
+  
+   <li>
+    Find me on 
+     <a href="https://www.linkedin.com/in/gabriel-henrique-dias-neves-3237a7186/" target="_blank" title="LinkedIn">Linkedin</a>
+     <img src="https://github.com/gabrielhdneves/gabrielhdneves/blob/master/linkedin.svg" width="16" alt="LinkedIn Logo">    
+  </li>
+</ul>
+
+---
+
+![Npx demo](https://github.com/gabrielhdneves/gabrielhdneves/blob/master/gabrielhdneve.gif)

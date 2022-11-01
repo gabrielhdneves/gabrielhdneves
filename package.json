@@ -1,0 +1,23 @@
+{
+  "name": "gabrielhdneves",
+  "version": "1.0.0",
+  "description": "Gabriel Neves - contact information",
+  "main": "./info.json",
+  "bin": {
+    "gabrielhdneves": "./index.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Gabriel Neves",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielhdneves/gabrielhdneves.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrielhdneves/gabrielhdneves/issues"
+  },
+  "homepage": "https://github.com/gabrielhdneves/gabrielhdneves#readme"
+}
