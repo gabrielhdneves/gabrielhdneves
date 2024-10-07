@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I do work as a Frontend developer, mainly using TypeScript and React.
+I do work as a Frontend developer, mainly using React, TypeScript, and JavaScript.
 
 <ul>
    <li>
@@ -15,7 +15,7 @@ I do work as a Frontend developer, mainly using TypeScript and React.
   
    <li>
     Find me on 
-     <a href="https://www.linkedin.com/in/gabriel-henrique-dias-neves-3237a7186/" target="_blank" title="LinkedIn">Linkedin</a>
+     <a href="https://www.linkedin.com/in/gabriel-hdneves/" target="_blank" title="LinkedIn">Linkedin</a>
      <img src="https://github.com/gabrielhdneves/gabrielhdneves/blob/main/linkedin.svg" width="16" alt="LinkedIn Logo">    
   </li>
 </ul>
