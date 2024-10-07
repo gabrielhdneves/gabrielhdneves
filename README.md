@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I do work as a Frontend developer, mainly using React, TypeScript, and JavaScript.
+I am a Frontend software engineer, mainly using React, TypeScript, and JavaScript.
 
 <ul>
    <li>
@@ -21,5 +21,3 @@ I do work as a Frontend developer, mainly using React, TypeScript, and JavaScrip
 </ul>
 
 ---
-
-![Npx demo](https://github.com/gabrielhdneves/gabrielhdneves/blob/main/gabrielhdneves.gif)
