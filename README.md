@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a Frontend software engineer, mainly using React, TypeScript, and JavaScript.
+I am a Frontend software engineer using React, TypeScript, and JavaScript. I have also worked with Next.js, Remix, Tailwind CSS, SasS, testing(Jest/React Testing Library), GraphQL, and Redux.
 
 <ul>
    <li>
